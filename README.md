@@ -1,1 +1,1 @@
-# FMCG-DASHBOARD
+Used Advanced Excel functions.Cleaned the data to ensure accuracy which includes removing duplicates, handling missing values, correcting inconsistencies andtransforming data format.Used pivot table for Analysis.Created an interactive dashboard using different charts and graphs and Used Slicers for better analysis.
